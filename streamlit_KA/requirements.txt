@@ -1,0 +1,17 @@
+streamlit
+numpy
+pandas
+gspread
+gspread_dataframe
+gsheetsdb
+oauth2client
+folium
+streamlit_folium
+json5
+requests
+# opencv-python == 4.7.0.68
+opencv-python-headless==4.6.0.66
+scikit-image == 0.19.3
+
+openai
+image
